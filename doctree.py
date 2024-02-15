@@ -1,3 +1,6 @@
+"""
+Affiche la liste des modules disponibles avec Thoony
+"""
 import time
 from ggtools import *
 
